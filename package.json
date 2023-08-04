@@ -1,0 +1,23 @@
+{
+  "name": "strapi-ai-string",
+  "version": "1.0.0",
+  "description": "A Strapi Custom Field for Text Generation with AI.",
+  "strapi": {
+    "name": "ai-string",
+    "description": "A Strapi Custom Field for Text Generation with AI.",
+    "kind": "plugin",
+    "displayName": "AI Text Generation"
+  },
+  "peerDependencies": {
+    "@strapi/strapi": "^4.0.0"
+  },
+  "author": {
+    "name": "Excel",
+    "email": "Excel555@163.com"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
